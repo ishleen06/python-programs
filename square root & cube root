@@ -1,0 +1,9 @@
+'''
+Program discription: program to calculate the cube root and square root of a number
+'''
+
+n=int(input('enter a value of which root you want to find(ex.for squreroot type 2,cuberoot type 3):'))
+d=int(input('enter a no. to find  root of it:'))
+x=1/n
+print('your ans.=',d**x)
+
