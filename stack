@@ -1,0 +1,10 @@
+# Python code to demonstrate Implementing
+# stack using list
+stack = ["A", "Z", "H"]
+stack.append("Y")
+stack.append("I")
+print(stack)
+print(stack.pop())
+print(stack)
+print(stack.pop())
+print(stack) 
